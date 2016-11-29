@@ -4,9 +4,9 @@ The Music Video player is a callaborative video player in which users may add ne
 
 ## Live Demo
 
-[See PartySRC Live](https://)
+[See PartySRC Live](https://ramirolpz55.github.io/PartySRC/)
 
-![PartySRC]()
+![PartySRC](assets/images/PartySRC.gif)
 
 1. Click on Player Options in the menu and click on restart player for a starter playlist. 
 2. Click on Screens --> Admin or Collaborator to see the different screens available.
