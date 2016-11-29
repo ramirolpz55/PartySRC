@@ -1,0 +1,97 @@
+body {
+	margin:10px;
+	background-color: #192231;
+	font-family: avenir;
+	font-weight: 200;
+
+}
+.face-logo {
+	z-index: 4;
+	height: 10%;
+	float: left;
+}
+.resultThumb{
+	height: 170px;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+.panel-default > .panel-heading {
+	background-color: orange;
+	color:#985e6d;
+	font-weight: 200;
+	border:none;
+
+}
+
+.panel-default {
+	border:1px solid #985e6d;
+	font-weight: 200;
+}
+
+.btn-default {
+	
+	background-color: #985e6d;
+	color:#192231;
+	font-weight: 200;
+}
+
+.footer {
+	color:#E7DfDD;
+}
+
+.panel-body {
+	background-color: white;
+	color:#985e6d;
+	font-weight: 200;
+	
+}
+
+th {
+	font-weight: 200;
+}
+
+.form-control {
+	background-color: #a0a4b5;
+	color:#192231;
+}
+
+.admin-queue {
+	overflow-y:scroll;
+	height:400px;
+}
+
+#position-buttons {
+	text-align: center;
+}
+#videoplayer {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+webkit-scrollbar  {
+	color:blue;
+}
+
+#videoplayer iframe, .videoplayer object, .videoplayer embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+
+@media (max-width: 768px) {
+	.img-responsive{
+		max-height: 56px;
+		max-width: auto;
+		float: left;
+		margin-right: 15px;
+	}
+	.resultThumb{
+		height: 56px;
+		margin-bottom: 15px;
+	}
+}

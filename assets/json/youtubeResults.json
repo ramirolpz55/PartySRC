@@ -1,0 +1,1608 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/Gjyj_fu5fmbYm0UF_S1cNG-I9QQ\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "US",
+ "pageInfo": {
+  "totalResults": 928359,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/osNjtj5nfO4AGj5dcWnY6irqZkk\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC2VeD15WOEFqhZEKdexG4dw"
+   },
+   "snippet": {
+    "publishedAt": "2016-01-06T14:39:03.000Z",
+    "channelId": "UC2VeD15WOEFqhZEKdexG4dw",
+    "title": "undefined undefined",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-IPuZIKVeBT8/AAAAAAAAAAI/AAAAAAAAAAA/Jwatr54xx5Q/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-IPuZIKVeBT8/AAAAAAAAAAI/AAAAAAAAAAA/Jwatr54xx5Q/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-IPuZIKVeBT8/AAAAAAAAAAI/AAAAAAAAAAA/Jwatr54xx5Q/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "undefined undefined",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/SOmzf20HGROFhD2ns15m9nkRf0k\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5M1-uGnXKZs"
+   },
+   "snippet": {
+    "publishedAt": "2016-02-08T14:32:23.000Z",
+    "channelId": "UC9Zl_UOLc2F5Aq45G6DxEaQ",
+    "title": "Fluffy UNDEFINED Twist Out + Refresher - Naptural85",
+    "description": "I usually opt for my super defined twist out, (https://www.youtube.com/watch?v=dkjM-bNPbN4) but have been really into this fluffy, undefined look lately!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5M1-uGnXKZs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5M1-uGnXKZs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5M1-uGnXKZs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Naptural85",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/HbWB2vaHV3abUui1-8FR_JoCEl0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8J5xJt8bTbY"
+   },
+   "snippet": {
+    "publishedAt": "2014-01-07T14:52:08.000Z",
+    "channelId": "UCixkvRteoutqZXSfwFrge9Q",
+    "title": "How to fix Notice: Undefined index in PHP form action?",
+    "description": "Subscribe to my youtube channel [ HowPortal ], you can get log of cool how to videos. thanks.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8J5xJt8bTbY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8J5xJt8bTbY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8J5xJt8bTbY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "HowPortal",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/7iIVPQVS5dnKFlqBpklciPTFVrk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "kmWvaRE5deU"
+   },
+   "snippet": {
+    "publishedAt": "2014-06-26T02:00:01.000Z",
+    "channelId": "UCPfyre-gaEZkTl5oCoxtkSQ",
+    "title": "Culprate - Undefined feat. CoMa & Koda",
+    "description": "Free download: http://bit.ly/1jgyiGz ○ Subscribe for more music: http://bit.ly/subscribetoghc ○ Get free wallpapers: http://bit.ly/getfreeghcwallpapers ○ Culprate ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kmWvaRE5deU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kmWvaRE5deU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kmWvaRE5deU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Glitch Hop Community",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/zKhSCE8LRbCGoJte5jYVz2M5QYQ\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UC_WkDxdcIxeU2Yr3ISJtpOA"
+   },
+   "snippet": {
+    "publishedAt": "2016-02-07T23:16:11.000Z",
+    "channelId": "UC_WkDxdcIxeU2Yr3ISJtpOA",
+    "title": "Undefined Films",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-bTa7frOdWdE/AAAAAAAAAAI/AAAAAAAAAAA/BglfAixt9_4/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-bTa7frOdWdE/AAAAAAAAAAI/AAAAAAAAAAA/BglfAixt9_4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-bTa7frOdWdE/AAAAAAAAAAI/AAAAAAAAAAA/BglfAixt9_4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "Undefined Films",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/nyoLYMpa2ys6OXgjFQPeVstDEuI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "MNk-n8809CY"
+   },
+   "snippet": {
+    "publishedAt": "2013-10-06T12:11:12.000Z",
+    "channelId": "UCDjj8HQl1XhOoeArf3SVyQw",
+    "title": "Solution for Notice: Undefined variable: in index.php on line | PHP Tutorials",
+    "description": "How To Fix PHP Error Notice: Undefined variable. Get source code from TutsCorner.com: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MNk-n8809CY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MNk-n8809CY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MNk-n8809CY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Sooraj Mohan",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/MDRvQXR1hIlJbXrp7D6UU_cTvtA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "EPM5XEXKa_Y"
+   },
+   "snippet": {
+    "publishedAt": "2012-10-01T19:26:08.000Z",
+    "channelId": "UCKibPoo6DyNJQoquVep-7AA",
+    "title": "Find value(s) of variable that make a fraction UNDEFINED",
+    "description": "Rational Expressions are simply fractions.... Fractions with Variables in them. So, given a rational expression, how do you find the value(s) that would make the ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EPM5XEXKa_Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EPM5XEXKa_Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EPM5XEXKa_Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "poysermath",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/i9MM7HlQX15KxpcdHmxEXlUZANU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Lrzs4rM2zSA"
+   },
+   "snippet": {
+    "publishedAt": "2015-10-05T12:37:35.000Z",
+    "channelId": "UC0XKvSq8CcMBSQTKXZXnEiQ",
+    "title": "[UK House] Undefined - Intentions",
+    "description": "Groovy • https://pro.beatport.com/release/intentions/1602677 Subscribe now! Click here: • http://goo.gl/oCEuvi Support Undefined ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Lrzs4rM2zSA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Lrzs4rM2zSA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Lrzs4rM2zSA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MA Music",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/ZpmvmQwA3PKMKp8wg7J1FK_YBr8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SQzjzStU1RQ"
+   },
+   "snippet": {
+    "publishedAt": "2012-06-23T23:26:03.000Z",
+    "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+    "title": "Why dividing by zero is undefined | Functions and their graphs | Algebra II | Khan Academy",
+    "description": "Watch the next lesson: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SQzjzStU1RQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SQzjzStU1RQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SQzjzStU1RQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Khan Academy",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/6T-Wrtkq_-P4RCSQbrBeOJV7CaI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "nDlv2gzdcIk"
+   },
+   "snippet": {
+    "publishedAt": "2013-09-10T20:52:05.000Z",
+    "channelId": "UCZMqAauzNrjzdJz5_RIOV1A",
+    "title": "6.1.2 Rational Expressions: Undefined Rational Expressions",
+    "description": "Find any values for which the rational expression is undefined.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nDlv2gzdcIk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nDlv2gzdcIk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nDlv2gzdcIk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "mehadarooka",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/2addoWYf-WszOwyzdsY0vHr7jPU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "LR6eX0DyBjM"
+   },
+   "snippet": {
+    "publishedAt": "2014-06-03T08:25:12.000Z",
+    "channelId": "UC0LU4y8G35Jo5oRHgQhBvzg",
+    "title": "Undefined Profiles - Nasty Madness",
+    "description": "FACEBOOK: https://www.facebook.com/undefined.profiles iTUNES: https://itunes.apple.com/it/artist/undefined-profiles/id871201097 Directed by...Andrea ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LR6eX0DyBjM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LR6eX0DyBjM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LR6eX0DyBjM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Karma Troopers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/DeD2yWozxM7slKFJBeok20MOUvA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "uHCLkb1vKaY"
+   },
+   "snippet": {
+    "publishedAt": "2014-08-08T04:56:14.000Z",
+    "channelId": "UC5e__RG9K3cHrPotPABnrwg",
+    "title": "Undefined Behavior in C++: What is it, and why do you care?",
+    "description": "Marshall Clow's presentation from C++Now 2014 Slides are available at: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uHCLkb1vKaY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uHCLkb1vKaY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uHCLkb1vKaY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BoostCon",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/NU3en8CYMF8g6W34uezJKF-Jh9w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PDReqvXfkBA"
+   },
+   "snippet": {
+    "publishedAt": "2012-06-23T23:48:13.000Z",
+    "channelId": "UC4a-Gbdw7vOaccHmFo40b9g",
+    "title": "Why zero divided by zero is undefined/indeterminate | Algebra II | Khan Academy",
+    "description": "Multiple arguments for what we could get when we divide zero by zero. We will later see that this can be considered indeterminate Watch the next lesson: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PDReqvXfkBA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PDReqvXfkBA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PDReqvXfkBA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Khan Academy",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/89p7EjAEP2O9S-SUty8BtLEVbXk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "OH-BNVNgw1g"
+   },
+   "snippet": {
+    "publishedAt": "2014-03-14T19:07:24.000Z",
+    "channelId": "UCAxCilwrLOjjSS_kmeb97ZA",
+    "title": "PHP Error  Undefined Index",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OH-BNVNgw1g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OH-BNVNgw1g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OH-BNVNgw1g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Miszkoxxx",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/M3aIIjSJSGqzXIJ8Y5_4bEN8Rh4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "e3y57I63gCw"
+   },
+   "snippet": {
+    "publishedAt": "2012-06-17T05:07:26.000Z",
+    "channelId": "UCJM4GxPNbZ1lGALgzrkR9JA",
+    "title": "Fatal error Call to undefined function mysql_connect().avi",
+    "description": "If you have received the dreaded \"Fatal error Call to undefined function mysql_connect()\", this video may help. Here is the text from the video: Fatal error: Call to ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e3y57I63gCw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e3y57I63gCw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e3y57I63gCw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "freehelpvideos",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/vdgYh-67uvkr1hm_HO8LPUvAw0g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RsVj1KPadvM"
+   },
+   "snippet": {
+    "publishedAt": "2015-05-18T08:12:21.000Z",
+    "channelId": "UC-M4UT-oCtEZvNGraW-EmEQ",
+    "title": "The Potency of Being Undefined - Bookclub Hangout with  Dr. Dain Heer",
+    "description": "http://www.drdainheer.com ) The Potency of Being Undefined - Bookclub Hangout with Dr. Dain Heer, originally aired live on May 18, 2015. Imagine for a ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RsVj1KPadvM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RsVj1KPadvM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RsVj1KPadvM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Dain Heer",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/dJY37uNqTlzCD8YCJnAdx2T0dEo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8sH0EpNlGGM"
+   },
+   "snippet": {
+    "publishedAt": "2016-08-13T15:00:01.000Z",
+    "channelId": "UC9ecwl3FTG66jIKA9JRDtmg",
+    "title": "The Tiger-Patterned Vaisravana - Touhou 12: Undefined Fantastic Object",
+    "description": "Music: The Tiger-Patterned Vaisravana Composer: ZUN Playlist: https://www.youtube.com/playlist?list=PLL0CQjrcN8D0PTYLheBtj2uEKvDerntQk Platform: PC ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8sH0EpNlGGM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8sH0EpNlGGM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8sH0EpNlGGM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SiIvaGunner",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/lDoSZqjc-ZCW6z6FBjZpICnFXeg\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCRWI8eE1DRUH9fjoWlk2dtQ"
+   },
+   "snippet": {
+    "publishedAt": "2005-10-19T19:37:57.000Z",
+    "channelId": "UCRWI8eE1DRUH9fjoWlk2dtQ",
+    "title": "PARTY SHIRT",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-ke71df2fAIo/AAAAAAAAAAI/AAAAAAAAAAA/pQ9JZZw3KMA/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-ke71df2fAIo/AAAAAAAAAAI/AAAAAAAAAAA/pQ9JZZw3KMA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-ke71df2fAIo/AAAAAAAAAAI/AAAAAAAAAAA/pQ9JZZw3KMA/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "PARTY SHIRT",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/JUR4sbqq3T52IevNuTbtsPLRpbY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "m-FuDyzBsso"
+   },
+   "snippet": {
+    "publishedAt": "2011-10-16T20:55:46.000Z",
+    "channelId": "UCB76v2EVpsqna6xPr6qWJqg",
+    "title": "Mr. Green - Undefined (Instrumental) (2011)",
+    "description": "YOU SHOULD READ THIS FULL DESCRIPTION. This album, \"Classic Beats Volume 3,\" is yet another dope instrumental album from Mr. Green. This dudes a ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/m-FuDyzBsso/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/m-FuDyzBsso/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/m-FuDyzBsso/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "ike Tunes",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/BcImhz_cIcZsJ5C4fBL9YIKrOo8\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCE-SRK6zlmTMWkhewnH5D_Q"
+   },
+   "snippet": {
+    "publishedAt": "2012-06-03T03:45:18.000Z",
+    "channelId": "UCE-SRK6zlmTMWkhewnH5D_Q",
+    "title": "Undefined Fantastic Channel",
+    "description": "Welcome to the Undefined Fantastic Channel, the place where you'll find awesome Touhou music, mostly Rock and Metal, but you can find many other genres ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-ZOog4QEi2tc/AAAAAAAAAAI/AAAAAAAAAAA/Zcm816-vxCU/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-ZOog4QEi2tc/AAAAAAAAAAI/AAAAAAAAAAA/Zcm816-vxCU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-ZOog4QEi2tc/AAAAAAAAAAI/AAAAAAAAAAA/Zcm816-vxCU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "Undefined Fantastic Channel",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/UMvbKtagYMobYbDygydzCkbUTWw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "qMUIlstZskA"
+   },
+   "snippet": {
+    "publishedAt": "2015-01-27T18:28:54.000Z",
+    "channelId": "UCLJiSMXJ9K-1AOTqIqdXJgQ",
+    "title": "Determining the \"Risk\" in Undefined Risk Trading | Market Measures",
+    "description": "Understand how \"undefined risk\" trading is quantified and how it's not as threatening as people believe. See more videos from the Market Measures Series: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qMUIlstZskA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qMUIlstZskA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qMUIlstZskA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "tastytrade",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/jI-9C5Ez-sSLc1VxxfURWGQojiQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "f-cdzhP5Bxo"
+   },
+   "snippet": {
+    "publishedAt": "2016-06-16T13:00:03.000Z",
+    "channelId": "UCrTYYYJiNuO7lTKmiOtfDbA",
+    "title": "Raw Madness Episode #005 | Raw Hardstyle 2016 | Guestmix by Undefined | Goosebumpers",
+    "description": "Subscribe Goosebumpers on YouTube → http://bitly.com/subscribegb Like Goosebumpers on Facebook → http://bitly.com/facebookgb Title: Raw Madness ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f-cdzhP5Bxo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f-cdzhP5Bxo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f-cdzhP5Bxo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Goosebumpers",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/NiGtw3bWrVWOTruyM-MpleCGqqE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HGJ4l4YcQbk"
+   },
+   "snippet": {
+    "publishedAt": "2015-04-28T01:30:00.000Z",
+    "channelId": "UC192AYL4RJRYMgdDoxxFe_g",
+    "title": "Touhou 12: Undefined Fantastic Object - Extra Stage",
+    "description": "Unidentified Flying Fantastic Object ~The Night Sky~ ]|▭▭▭▭▭▭▭|[☯]|▭▭▭▭▭▭▭|[ The Hakurei Shrine. Reimu and Sanae were talking about the ship ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HGJ4l4YcQbk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HGJ4l4YcQbk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HGJ4l4YcQbk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "MegamanOmega184",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/qD4HjrLBLDa81GskXTTpc7Tq5w4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "UUEWmOYg7Xw"
+   },
+   "snippet": {
+    "publishedAt": "2016-04-15T16:27:22.000Z",
+    "channelId": "UCyLqyxcqBJBlNOP7YPb8zvw",
+    "title": "[FIX] Call to undefined function mysql connect() in PHP - How to fix errors ?",
+    "description": "[FIX] Call to undefinedfunction mysql connect() in PHP - How to fix errors ? Thank for watching !",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UUEWmOYg7Xw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UUEWmOYg7Xw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UUEWmOYg7Xw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "How To Fix Errors ?",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/fBG4VPLDh7DlhPiVwPQ_EhxX_lE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "sdFSTwhR8fo"
+   },
+   "snippet": {
+    "publishedAt": "2014-09-18T12:46:13.000Z",
+    "channelId": "UC1xuG4V9t4Zu-RDGpUmEb7Q",
+    "title": "The Undefined Move | Dance Short Film",
+    "description": "Disclaimer : All the audio/video is strictly meant for entertainment purpose only.We do not make any commercial use of this and is intended to show creativity of ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sdFSTwhR8fo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sdFSTwhR8fo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sdFSTwhR8fo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Saurabh Pandya",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/WmWwZ8-KCa-EDxCP-SbQaZBMiPs\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCYFh8iUHvK7K578Y1_LlJxw"
+   },
+   "snippet": {
+    "publishedAt": "2012-07-12T09:00:14.000Z",
+    "channelId": "UCYFh8iUHvK7K578Y1_LlJxw",
+    "title": "Hollow Of Dawn | Undefined",
+    "description": "I'm Hollow Of Dawn, and I like to watch anime. I'm not an anime-guru or anything like that, but if it's well talked about, and If I like it from it's first episode, I will ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-pLkeyLGqIT8/AAAAAAAAAAI/AAAAAAAAAAA/DE3S2Wx5OU0/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-pLkeyLGqIT8/AAAAAAAAAAI/AAAAAAAAAAA/DE3S2Wx5OU0/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-pLkeyLGqIT8/AAAAAAAAAAI/AAAAAAAAAAA/DE3S2Wx5OU0/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "Hollow Of Dawn | Undefined",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/jEcp0kN7LPusuqiImw0W_yuOMUU\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCBUc9OyQjpLRmLaFez6VMyg"
+   },
+   "snippet": {
+    "publishedAt": "2014-11-27T19:10:56.000Z",
+    "channelId": "UCBUc9OyQjpLRmLaFez6VMyg",
+    "title": "UNDEFINED PRODUCTION CO.",
+    "description": "UNDEFINED PRODUCTION is a independent company. (Film,magazine, music, actors,dancers)interviews, and performances ....like subscribe comment share !",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-D35n-culLBY/AAAAAAAAAAI/AAAAAAAAAAA/eVZKQ-wd310/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-D35n-culLBY/AAAAAAAAAAI/AAAAAAAAAAA/eVZKQ-wd310/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-D35n-culLBY/AAAAAAAAAAI/AAAAAAAAAAA/eVZKQ-wd310/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "UNDEFINED PRODUCTION CO.",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/ZdDGsDLzQWt03XP7B7l1rL1XbGI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "3-reL0fN3Ys"
+   },
+   "snippet": {
+    "publishedAt": "2015-10-05T18:00:00.000Z",
+    "channelId": "UC2nMSE3t71qC8sG06WSJnMg",
+    "title": "The Binding of Isaac: Rebirth - Modded Run: Undefined Eternity! (Godmode)",
+    "description": "FREE ME FROM THIS ETERNAL AWESOMENESS! Enjoy! Support me on Patreon: http://bit.ly/1FUac4S Watch the whole series here: http://bit.ly/1zwXYM2 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3-reL0fN3Ys/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3-reL0fN3Ys/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3-reL0fN3Ys/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "RageGamingVideos",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/sc-9-TzvJNyYmzx6goa7kdPD-Bg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "VNS9Rn0ZFe8"
+   },
+   "snippet": {
+    "publishedAt": "2016-08-14T04:50:57.000Z",
+    "channelId": "UC8yH-uI81UUtEMDsowQyx1g",
+    "title": "Ndile M on his latest project titled 'Undefined Ego'",
+    "description": "One of his mix tapes titled \"Special Offer\" sold over 5000 copies while he was nominated for best album of the year and best sleeve design at the OMA's.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VNS9Rn0ZFe8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VNS9Rn0ZFe8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VNS9Rn0ZFe8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SABC Digital News",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/Ho0V433kW7WV2OL-spmD5C7j7nU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "xj4QV_kVwNc"
+   },
+   "snippet": {
+    "publishedAt": "2013-09-06T14:05:25.000Z",
+    "channelId": "UCZcHN6cxew_vFfjcHBRWjow",
+    "title": "【Hatsune Miku】Undefined【Sub ITA】",
+    "description": "Undefined Sub ita Indefinito (Open for more info!) Apri per altre informazioni! -Musica, testi e arrangiamento: てぃあら (Tiara) mylist/25325878 @tiara0207 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xj4QV_kVwNc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xj4QV_kVwNc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xj4QV_kVwNc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "RanVocaloidSubIta",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/SJCFof45iG9b_Ln_KoDbf-ZymEY\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCfgByCqiErWi5D-gIkNAVjg"
+   },
+   "snippet": {
+    "publishedAt": "2013-01-02T19:44:52.000Z",
+    "channelId": "UCfgByCqiErWi5D-gIkNAVjg",
+    "title": "Undefined Obsession",
+    "description": "We Are Undefined Obsession. We are an Albuquerque based band looking to rock the world out.",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-_49gFLo8qw8/AAAAAAAAAAI/AAAAAAAAAAA/t_sHRffY24A/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-_49gFLo8qw8/AAAAAAAAAAI/AAAAAAAAAAA/t_sHRffY24A/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-_49gFLo8qw8/AAAAAAAAAAI/AAAAAAAAAAA/t_sHRffY24A/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "Undefined Obsession",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/OJAP8PSQbmli1WMgVYY1LLgcXjA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GZCNJWXcivw"
+   },
+   "snippet": {
+    "publishedAt": "2013-06-03T06:33:35.000Z",
+    "channelId": "UCH84i6PJtYyyGwY6H5yy3Vw",
+    "title": "Undefined Lifestyle | @chachigonzales | @undfndinc",
+    "description": "We had the pleasure of having the amazing Chachi Gonzales up in Vancouver in April. This is our behinds the scene footage. Please share/like/subscribe if you ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GZCNJWXcivw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GZCNJWXcivw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GZCNJWXcivw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Undefined Lifestyle",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/5wGIVTBWfJUHDm-u2cpVRR4SAN4\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PLww2X82KnNcKtTytptZix1cykUo6U7_2E"
+   },
+   "snippet": {
+    "publishedAt": "2015-04-17T13:54:23.000Z",
+    "channelId": "UCnj4rd1xABDmsr78sy1l8Pg",
+    "title": "English language Videos / Videos in englischer Sprache",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qhPUzvHvy2w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qhPUzvHvy2w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qhPUzvHvy2w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Volkswagen Nutzfahrzeuge",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/vshpQASY0ZgPVGe9N60n1YQXLyI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "3SjpQFx5Nvo"
+   },
+   "snippet": {
+    "publishedAt": "2015-11-16T18:20:36.000Z",
+    "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+    "title": "Undefined nationality | Tamer Almisshal | TEDxShujaiya",
+    "description": "As a well Known world journalist he asks, Does one believe that journalist have to have a nationality to practice and succeed in their career. Do they need a ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3SjpQFx5Nvo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3SjpQFx5Nvo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3SjpQFx5Nvo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "TEDx Talks",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/EXRIOPBkcgh8vYWDtbZdrr2eBtM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Q-79TTQGg7Y"
+   },
+   "snippet": {
+    "publishedAt": "2013-12-12T06:31:37.000Z",
+    "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+    "title": "Undefined: Eden Full at TEDxBayArea",
+    "description": "Eden Full is an aspiring maker. She is the inventor of the SunSaluter, a low-cost mechanism that optimizes solar panels while providing clean water. Named one ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q-79TTQGg7Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q-79TTQGg7Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q-79TTQGg7Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "TEDx Talks",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/mbKM0FcBmr2hhuCtESzWs18tkJE\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCCIB1weB4LfK95MvsI5vidA"
+   },
+   "snippet": {
+    "publishedAt": "2011-10-27T09:16:31.000Z",
+    "channelId": "UCCIB1weB4LfK95MvsI5vidA",
+    "title": "object undefined",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-Hu38R0aqoGU/AAAAAAAAAAI/AAAAAAAAAAA/r9xDviqimrY/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-Hu38R0aqoGU/AAAAAAAAAAI/AAAAAAAAAAA/r9xDviqimrY/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-Hu38R0aqoGU/AAAAAAAAAAI/AAAAAAAAAAA/r9xDviqimrY/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "object undefined",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/q4QFENw08W2lDyEon8lQ23bQ598\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-TlksLISoD8"
+   },
+   "snippet": {
+    "publishedAt": "2016-03-20T17:44:15.000Z",
+    "channelId": "UCNsidkYpIAQ4QaufptQBPHQ",
+    "title": "SOLiVE24 (undefined undefined) 2016-03-21 00:41:48〜",
+    "description": "【undefined undefined: undefined】 undefined.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-TlksLISoD8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-TlksLISoD8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-TlksLISoD8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "weathernews",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/bvkNyS_ePN06vjEdXcfsErPLQRo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JScSJ6KQS-A"
+   },
+   "snippet": {
+    "publishedAt": "2015-06-17T18:07:49.000Z",
+    "channelId": "UCj_iGliGCkLcHSZ8eqVNPDQ",
+    "title": "Live #24 : Sujet undefined",
+    "description": "Abonnez-vous à Grafikart : http://bit.ly/19nGK3G Pour discuter : http://webchat.freenode.net/?channels=grafikart-live.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JScSJ6KQS-A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JScSJ6KQS-A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JScSJ6KQS-A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Grafikart.fr",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/1Zqt7A1xUuAjLxpvbD7HkoLFzLc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hgeErnYxAUw"
+   },
+   "snippet": {
+    "publishedAt": "2014-08-03T15:02:56.000Z",
+    "channelId": "UC5e__RG9K3cHrPotPABnrwg",
+    "title": "Removing Undefined behavior from integer operations: The bounded::integer library",
+    "description": "David Stone's talk from C++Now 2014 Slides are available at: https://github.com/boostcon/cppnow_presentations_2014/blob/master/files/bounded_integer.pdf.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hgeErnYxAUw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hgeErnYxAUw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hgeErnYxAUw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BoostCon",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/fUr_G1JFxYHfkbF4Z7S6DTz0djs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hjZlpEzt8AI"
+   },
+   "snippet": {
+    "publishedAt": "2015-05-08T20:03:07.000Z",
+    "channelId": "UCWljxewHlJE3M7U_6_zFNyA",
+    "title": "WHY MILEY CYRUS WANTS TO BE ALONE & UNDEFINED!",
+    "description": "Miley Cyrus is happy being alone and thinks you should be too! » PATRICK RUMORS - http://bit.ly/1GU0SbT Miley Cyrus recently split from bae Patrick and has ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hjZlpEzt8AI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hjZlpEzt8AI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hjZlpEzt8AI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "AwesomenessTV",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/K5RZAuyzsFopgFWWEsMFHGTk8cU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8LbQc9v86IU"
+   },
+   "snippet": {
+    "publishedAt": "2014-12-08T15:39:05.000Z",
+    "channelId": "UCbGZKLIHpox2l0whz6_RYyg",
+    "title": "javaScript tutorial basics fundamentals ( data types string numbers objects null undefined )",
+    "description": "In this tutorial we learn javascript from the beginning. I will be using code playground such as jsfiddle.net to show you live code examples covering following ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8LbQc9v86IU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8LbQc9v86IU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8LbQc9v86IU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "techsith",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/0MIGQd5Yq6RSve9-kwGRNjRTWMc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "9-aDLMAgFlU"
+   },
+   "snippet": {
+    "publishedAt": "2015-06-16T06:13:02.000Z",
+    "channelId": "UCE3r9-lity7oNvVUs6fV1FA",
+    "title": "mengatasi Fatal error Call to undefined function session register",
+    "description": "Kesalahan Error pad cms Lokomedia dikarenakan Perbedaan versi PHP,",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9-aDLMAgFlU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9-aDLMAgFlU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9-aDLMAgFlU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "rahman jaya",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/VUD7tkAG30557QusVrzpXM3tx60\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JnEnvWgUlpw"
+   },
+   "snippet": {
+    "publishedAt": "2013-08-19T15:40:37.000Z",
+    "channelId": "UCtwaWPOXEBysZLh1rrPzwFw",
+    "title": "6- SolidWorks Sketch Tutorial: Defined & Undefined Geometries/ Fully Define",
+    "description": "6- SolidWorks Sketch Tutorial about Defined & Undefined Geometries/ Fully Define ▻Solidworks Sketch Tutorials: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JnEnvWgUlpw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JnEnvWgUlpw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JnEnvWgUlpw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "SolidWorks Tutorial ☺",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/pZT3XUZiiX_iLzh-l0xkkq8zO2U\"",
+   "id": {
+    "kind": "youtube#channel",
+    "channelId": "UCOj1ygR4NOSt3gl4RIrA1gA"
+   },
+   "snippet": {
+    "publishedAt": "2013-05-18T21:27:30.000Z",
+    "channelId": "UCOj1ygR4NOSt3gl4RIrA1gA",
+    "title": "paintingflowers98 || undefined hiatus",
+    "description": "Gina | 18 y/o | 21th March | german, english & italian. contact: ask in a pm for skype, fb or email! main OTPs: ShiZume, NejiTen, NezuShi, NielJoe & Amice;; ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-tir1IhB9bQo/AAAAAAAAAAI/AAAAAAAAAAA/w2eVQaIJ3y8/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-tir1IhB9bQo/AAAAAAAAAAI/AAAAAAAAAAA/w2eVQaIJ3y8/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-tir1IhB9bQo/AAAAAAAAAAI/AAAAAAAAAAA/w2eVQaIJ3y8/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "channelTitle": "paintingflowers98 || undefined hiatus",
+    "liveBroadcastContent": "upcoming"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/u-VoCGWaC-nn-iF76FdVZbj40-c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ian_mTIeu7A"
+   },
+   "snippet": {
+    "publishedAt": "2013-06-10T15:08:50.000Z",
+    "channelId": "UCZ8OCkWfhidgLiNqaAFPyXw",
+    "title": "House set of Undefined Fantastic Object (UFO) | Myorenji set 01 ～ 春の湊に [At the End of Spring]",
+    "description": "Game: Touhou 12 Song Title (Japanese): Myorenji set 01 ～ 春の湊に Song Title (English): Myorenji set 01 ~ At the End of Spring Artist: 凛 House set of ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ian_mTIeu7A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ian_mTIeu7A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ian_mTIeu7A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "xplodax",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/mH_xO9Op7zfPdTGSKFRVdvyTGG0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "G6FW8r10imM"
+   },
+   "snippet": {
+    "publishedAt": "2014-04-18T17:24:21.000Z",
+    "channelId": "UCe9FMqcQS1j0PTVyChC8i9A",
+    "title": "Walimatul Urus - Syamsul Yusof & Puteri Sarah Liyana (videography by Love Undefined and tupaiTV)",
+    "description": "Lead Videographer : Tengku Ishak - Love Undefined Photograprhy Muzik terpaksa ditukar atas arahan youtube Versi asal disini :https://vimeo.com/66204108 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G6FW8r10imM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G6FW8r10imM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G6FW8r10imM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "tupaitv",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/7SMKc1rwD5EdtbQymWERvmH2Ct8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GcpHZx-VIjA"
+   },
+   "snippet": {
+    "publishedAt": "2015-02-23T19:17:58.000Z",
+    "channelId": "UCBVCi5JbYmfG3q5MEuoWdOw",
+    "title": "Predicting Undefined Property Lookups - Object-Oriented JavaScript",
+    "description": "This video is part of an online course, Intro to Ajax. Check out the course here: https://www.udacity.com/course/ud110. This course was designed as part of a ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GcpHZx-VIjA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GcpHZx-VIjA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GcpHZx-VIjA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Udacity",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/xvoLPkNlYQl-XMOe7llEbnNLGL0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DKfbKJ9qT4s"
+   },
+   "snippet": {
+    "publishedAt": "2014-08-28T09:09:03.000Z",
+    "channelId": "UCNrGCPeWj6oJ-E-kC8xJcnw",
+    "title": "Salmon from Norway - Origin Matters",
+    "description": "Origin matters: Film about the origin of Norwegian salmon and why Norwegian salmon is the best there is, among else due to the fact that it is farmed by the ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DKfbKJ9qT4s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DKfbKJ9qT4s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DKfbKJ9qT4s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Norges sjømatråd",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/xdqHkwiQzeczAKztuf-_UzKwCbM\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PLjMghv78Y86F1MGQZlzbe-5PokHNgGFfW"
+   },
+   "snippet": {
+    "publishedAt": "2016-08-20T03:08:34.000Z",
+    "channelId": "UCXYF5-ndWqEmciY16lnSm4w",
+    "title": "FaZe Kay / Veizuh: UNDEFINED by Furran 【undefined undefined: undefined】 undefined.",
+    "description": "One of his mix tapes titled \"Special Offer\" sold over 5000 copies while he was nominated for best album of the year and best sleeve design at the OMA's.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AA2hi-zwq1Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AA2hi-zwq1Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AA2hi-zwq1Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "lindernguyen2 binh",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/no5HhWFkajPanYYjrr38mAylxDo\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PLjMghv78Y86FuE2CyE86fVNB4xDPVLhMt"
+   },
+   "snippet": {
+    "publishedAt": "2016-08-20T03:01:03.000Z",
+    "channelId": "UCXYF5-ndWqEmciY16lnSm4w",
+    "title": "FaZe Kay / Veizuh: UNDEFINED by Furran 【undefined undefined: undefined】 undefined.",
+    "description": "One of his mix tapes titled \"Special Offer\" sold over 5000 copies while he was nominated for best album of the year and best sleeve design at the OMA's.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eBAMoRSHOqY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eBAMoRSHOqY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eBAMoRSHOqY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "lindernguyen2 binh",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
